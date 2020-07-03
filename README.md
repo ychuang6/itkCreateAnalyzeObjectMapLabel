@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 itkCreateAnalyzeObjectMapLabel
 ==============================
 
@@ -21,3 +22,6 @@ make
 
 Test should pass without failure
  
+=======
+# itkCreateAnalyzeObjectMapLabel
+>>>>>>> 565db9bae821cbcc0e0c3b30a3a6fafa758e894b
