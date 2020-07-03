@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 itkCreateAnalyzeObjectMapLabel
 ==============================
 
@@ -9,6 +8,7 @@ CreateAnalyzeObjectMapLabel takes in a nifti file containing objects of differen
 ## Requirement 
 
 ITK += 4.0
+
 CMAKE += 2.6
 
 ## Install
@@ -21,7 +21,4 @@ make
 ```
 
 Test should pass without failure
- 
-=======
-# itkCreateAnalyzeObjectMapLabel
->>>>>>> 565db9bae821cbcc0e0c3b30a3a6fafa758e894b
+
