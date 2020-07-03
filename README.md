@@ -3,7 +3,7 @@ itkCreateAnalyzeObjectMapLabel
 
 This repository is a modification of examples demonstrated in [richardbeare](http://github.com/richardbeare)'s [repository](https://github.com/richardbeare/itkAnalyzeObjectMap) using the itkAnalyzeObjectMap reading/writing class for ITK by [Hawley & Johnson](https://github.com/InsightSoftwareConsortium/itkAnalyzeObjectMap/blob/master/AnalyzeObjectLabelMap.pdf).
 
-CreateAnalyzeObjectMapLabel takes in a nifti file containing objects of different intensities and converts to Mayo Clinic Analyze Object Map format [.obj]. Modification made allows labelling of objects according to name specified in the required input text file. 
+CreateAnalyzeObjectMapLabel takes in a nifti file containing objects of different intensities and converts to Mayo Clinic Analyze Object Map format [.obj]. Modification made allowed labelling of objects according to name specified in the required input text file. This script is useful to combine multiple objects created in nifti format into object maps accompanied by desired labels (object names in Analyze Software). 
 
 ## Requirement 
 
